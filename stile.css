@@ -148,7 +148,7 @@ body {
     text-align: center;
     
 }
-@media (min-width: 992px) {
+@media (min-width: 100px) {
 
     
     .elements_1 {
@@ -318,7 +318,7 @@ body {
     max-width: 100%;
 }
 
-@media (min-width: 992px) {
+@media (min-width: 100px) {
 
     /* 2/3 от ширины контейнера */
     .signs {
@@ -424,7 +424,7 @@ body {
     height: 70px;
     z-index: 10;
     margin-top: -67%;
-    margin-left: 38%;
+    margin-left: 37%;
     transform: rotate(-90deg);
 	cursor:pointer;
 	-webkit-touch-callout: none; 
@@ -472,7 +472,7 @@ body {
 
 .stop {
  
-    margin-top: -47%;
+    margin-top: -50%;
     margin-left:  54.75%;
     transform: translate(-50%, -50%);
     z-index: 10;
